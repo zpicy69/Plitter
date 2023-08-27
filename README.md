@@ -17,7 +17,7 @@ Various files under the pages directory: These are the main pages of the web app
 
 Database Schema:
 prisma/schema.prisma: This file defines the database schema for the application using Prisma, an open-source database toolkit.
-Mongodb: Mongodb is the database used to pair with prisma in order make this project come to life. Stores notifications, posts, followers, comments, and even likes.
+Mongodb: Mongodb is the database used up to pair with prisma in order to make this project come to life. Stores notifications, posts, followers, comments, and even likes.
 
 Public Assets:
 Files under the public directory: These are static assets like images and icons.
